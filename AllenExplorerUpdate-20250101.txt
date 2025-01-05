@@ -1,0 +1,32 @@
+[zh]
+Allen Explorer v6.81 更新日志（2025-1-1）
+
+优化：收藏栏显示模式（由“滚动模式”优化为“自动折叠模式”）
+优化：可设置多个文件夹为下载文件夹
+新增：内置音频播放软件（AIMP）
+新增：内置视频播放软件（PotPlayer）
+新增：Tab 键在文件夹内切换最新修改的项目
+新增：返回快捷键（Alt+左），前进快捷键（Alt+右）
+其他：稳定性优化
+
+[tw]
+Allen Explorer v6.81 更新日誌（2025-1-1）
+
+優化：收藏欄顯示模式（由「滾動模式」優化為「自動摺疊模式」）
+優化：可設定多個資料夾為下載資料夾
+新增：內置音訊播放軟體（AIMP）
+新增：內置視頻播放軟體（PotPlayer）
+新增：Tab 鍵在資料夾內切換最新修改的項目
+新增：返回快捷鍵（Alt+左），前進快捷鍵（Alt+右）
+其他：穩定性優化
+
+[en]
+Allen Explorer v6.81 Update Log (2025-1-1)
+
+Optimized: Display mode of the favorites bar (changed from "Scrolling mode" to "Auto-collapse mode")
+Optimized: Multiple folders can be set as download folders
+New: Built-in audio player software (AIMP)
+New: Built-in video player software (PotPlayer)
+New: The Tab key switches the latest modified item within the folder
+New: Shortcut key for going back (Alt+Left), shortcut key for going forward (Alt+Right)
+Other: Stability optimization

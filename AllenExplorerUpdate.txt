@@ -1,0 +1,29 @@
+[zh]
+Allen Explorer v6.82 更新日志
+
+修复：重启电脑后，初次打开 Allen Explorer 无法激活窗口的问题
+修复：Win+E 打开 Allen Explorer 无法激活窗口的问题
+修复：复制/移动多个文件后，没有自动选中全部项目的问题
+修复：子菜单居左显示位置问题
+修复：卸载程序遗留文件的问题
+其他：稳定性优化
+
+[tw]
+Allen Explorer v6.82 更新日誌
+
+修復：重啟電腦後，初次打開 Allen Explorer 無法激活視窗的問題
+修復：Win+E 打開 Allen Explorer 無法激活視窗的問題
+修復：複製/移動多個檔案後，沒有自動選中全部項目的問題
+修復：子菜單居左顯示位置問題
+修復：卸載程式遺留檔案的問題
+其他：穩定性優化
+
+[en]
+Allen Explorer v6.82 Update Log
+
+Fixed: The problem that the window of Allen Explorer cannot be activated when it is opened for the first time after restarting the computer.
+Fixed: The problem that the window of Allen Explorer cannot be activated when it is opened with Win + E.
+Fixed: The problem that all items are not automatically selected after copying/moving multiple files.
+Fixed: The problem of the display position of the submenu being on the left.
+Fixed: The problem of remaining files after uninstalling the program.
+Other: Stability optimization
