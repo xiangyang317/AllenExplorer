@@ -1,5 +1,5 @@
 [zh]
-Allen Explorer v6.9 更新日志
+Allen Explorer v6.91 更新日志
 
 修复：重启电脑后，初次打开 Allen Explorer 无法激活窗口的问题
 修复：Win+E 打开 Allen Explorer 无法激活窗口的问题
@@ -14,10 +14,13 @@ Allen Explorer v6.9 更新日志
 新增：自定义颜色主题
 新增：背景图片功能
 新增：云应用
+新增：拖拽标签页产生新窗体
+新增：新建标签页更多按钮
+新增：显性区分文件夹内搜索与全局搜索
 其他：稳定性优化
 
 [tw]
-Allen Explorer v6.9 更新日誌
+Allen Explorer v6.91 更新日誌
 
 修復：重啟電腦後，初次打開 Allen Explorer 無法激活視窗的問題
 修復：Win+E 打開 Allen Explorer 無法激活視窗的問題
@@ -32,10 +35,13 @@ Allen Explorer v6.9 更新日誌
 新增：自訂義顏色主題
 新增：背景圖片功能
 新增：雲應用
+新增：拖拽標籤頁產生新視窗
+新增：新建標籤頁更多按鈕
+新增：顯性區分文件夾內搜索與全局搜索
 其他：穩定性優化
 
 [en]
-Allen Explorer v6.9 Update Log
+Allen Explorer v6.91 Update Log
 
 Fixed: The problem that the window of Allen Explorer cannot be activated when it is opened for the first time after restarting the computer.
 Fixed: The problem that the window of Allen Explorer cannot be activated when it is opened with Win + E.
@@ -50,4 +56,7 @@ Optimized: Cursors
 New: Custom color theme
 New: Background image function
 New: Cloud application
+New: Dragging a tab creates a new window
+New: New tab more button
+New: Visibly distinguish between folder search and global search
 Other: Stability optimization
