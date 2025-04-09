@@ -1,0 +1,20 @@
+[zh]
+Allen Explorer v6.96 更新日志
+---------------------------------------------
+紧急修复：通过【右键菜单】呼出【系统菜单】闪退的问题
+新增：HEIC 文件缩略图支持
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v6.96 更新日誌
+---------------------------------------------
+緊急修復：通過【右鍵菜單】呼出【系統菜單】閃退的問題
+新增：HEIC 文件缩略圖支持
+其他：性能和穩定性優化
+
+[en]
+Allen Explorer v6.96 Update Log
+---------------------------------------------
+Emergency Fixed: Resolved the issue where the "System Menu" crashes when invoked via the "Right-click Menu".
+New: Added support for HEIC file thumbnails.
+Others: Performance and stability optimization.

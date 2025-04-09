@@ -1,0 +1,35 @@
+[zh]
+Allen Explorer v6.92 更新日志
+
+修复：窗口最大化时，拖拽标题栏无法恢复为常规窗口的问题
+优化：拖拽标签页形成新窗体的体验
+优化：导航栏按钮细化为三个按钮，且可设置每个按钮的显隐
+优化：会员付款体验
+优化：低分辨率下的快捷图标显示效果
+新增：快捷图标/快速启动图标的设置
+新增：按下标滚轮以新标签页打开文件夹（任何地方）
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v6.92 更新日誌
+
+修復：窗口最大化時，拖拽標題欄無法恢復為常規窗口的問題
+優化：拖拽標籤頁形成新視窗的體驗
+優化：導航欄按鈕細化為三個按鈕，且可設定每個按鈕的顯隱
+優化：會員付款體驗
+優化：低分辨率下的快捷圖標顯示效果
+新增：快捷圖標/快速啟動圖標的設定
+新增：按下標滾輪以新標籤頁打開資料夾（任何地方）
+其他：性能和穩定性優化
+
+[en]
+Allen Explorer v6.92 Update Log
+
+Fixed: When the window is maximized, dragging the title bar cannot restore to the normal window.
+Optimized: The experience of dragging a tab to create a new window.
+Optimized: The navigation bar buttons are refined into three buttons, and the visibility of each button can be set.
+Optimized: The payment experience for members.
+Optimized: The display effect of shortcut icons at low resolutions.
+New: Settings for Start icons / Quick Launch icons.
+New: Press the middle mouse wheel to open a folder in a new tab (anywhere).
+Others: Performance and stability optimization.
