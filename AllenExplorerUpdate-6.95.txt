@@ -1,0 +1,29 @@
+[zh]
+Allen Explorer v6.95 更新日志
+-------------------------------------------------------
+！！！【重要】！！！【重要】！！！【重要】！！！
+-------------------------------------------------------
+该版本更新后，原注册信息将失效，请重新进行【在线注册】，或联系客服获取注册码进行【离线注册】。
+-------------------------------------------------------
+优化：增强安全性
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v6.95 更新日誌
+-------------------------------------------------------
+！！！【重要】！！！【重要】！！！【重要】！！！
+-------------------------------------------------------
+該版本更新後，原註冊資訊將失效，請重新進行【在線註冊】，或聯繫客服獲取註冊碼進行【離線註冊】。
+-------------------------------------------------------
+優化：增強安全性
+其他：性能和穩定性優化
+
+[en]
+Allen Explorer v6.95 Update Log
+---------------------------------------------
+!!! IMPORTANT !!! IMPORTANT !!! IMPORTANT !!!
+---------------------------------------------
+After this version update, the original registration information will become invalid. Please re-conduct "Online Registration", or contact the customer service to obtain a registration code for "Offline Registration".
+---------------------------------------------
+Optimized: Security Enhancement.
+Others: Performance and stability optimization.

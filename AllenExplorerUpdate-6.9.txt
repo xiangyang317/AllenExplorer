@@ -1,0 +1,53 @@
+[zh]
+Allen Explorer v6.9 更新日志
+
+修复：重启电脑后，初次打开 Allen Explorer 无法激活窗口的问题
+修复：Win+E 打开 Allen Explorer 无法激活窗口的问题
+修复：复制/移动多个文件后，没有自动选中全部项目的问题
+修复：子菜单居左显示位置问题
+修复：卸载程序遗留文件的问题
+修复：个别场景下关闭窗口后无法重新打开的问题
+修复：个别场景下删除文件夹不实时刷新的问题
+优化：收藏夹项目拖拽体验
+优化：颜色主题配色逻辑
+优化：鼠标样式
+新增：自定义颜色主题
+新增：背景图片功能
+新增：云应用
+其他：稳定性优化
+
+[tw]
+Allen Explorer v6.9 更新日誌
+
+修復：重啟電腦後，初次打開 Allen Explorer 無法激活視窗的問題
+修復：Win+E 打開 Allen Explorer 無法激活視窗的問題
+修復：複製/移動多個檔案後，沒有自動選中全部項目的問題
+修復：子菜單居左顯示位置問題
+修復：卸載程式遺留檔案的問題
+修復：個別場景下關閉視窗後無法重新打開的問題
+修復：個別場景下刪除資料夾不實時刷新的問題
+優化：收藏夾項目拖拽體驗
+優化：顏色主題配色邏輯
+優化：滑鼠樣式
+新增：自訂義顏色主題
+新增：背景圖片功能
+新增：雲應用
+其他：穩定性優化
+
+[en]
+Allen Explorer v6.9 Update Log
+
+Fixed: The problem that the window of Allen Explorer cannot be activated when it is opened for the first time after restarting the computer.
+Fixed: The problem that the window of Allen Explorer cannot be activated when it is opened with Win + E.
+Fixed: The problem that all items are not automatically selected after copying/moving multiple files.
+Fixed: The problem of the display position of the submenu being on the left.
+Fixed: The problem of remaining files after uninstalling the program.
+Fixed: The problem that the window cannot be reopened after closing in some individual scenarios.
+Fixed: The problem that the deletion of folders is not refreshed in real time in some individual scenarios.
+Optimized: Dragging experience of favorites items
+Optimized: Color theme matching logic
+Optimized: Cursors
+New: Custom color theme
+New: Background image function
+New: Cloud application
+Other: Stability optimization

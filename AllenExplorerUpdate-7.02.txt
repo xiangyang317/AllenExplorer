@@ -1,0 +1,20 @@
+[zh]
+Allen Explorer v7.02 更新日志
+---------------------------------------------
+新增：默认布局设置
+优化：窗口助手的窗口尺寸调整逻辑
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.02 更新日誌
+---------------------------------------------
+新增：默認佈局設置
+優化：窗口助手的窗口尺寸調整邏輯
+其他：性能和穩定性優化
+
+[en]
+Allen Explorer v7.02 Update Log
+---------------------------------------------
+New: Default layout settings.
+Optimized: The window size adjustment logic of the Window Assistant.
+Others: Performance and stability optimization.

@@ -1,0 +1,42 @@
+[zh]
+Allen Explorer v6.94 更新日志
+
+新增：标签页的【仅本窗口固定】功能
+新增：【推荐返现】功能
+更新：部分鼠标光标样式
+修复：菜单栏图标颜色随主题变化错乱的问题
+修复：标签页拖拽时消失的问题
+修复：关闭副工作区无法保存标记和视图的问题
+优化：Home按钮逻辑
+优化：导航栏图标逻辑
+优化：空文件夹内创建文件/文件夹时的动态显示
+优化：各处与当前固定标签页的交互逻辑
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v6.94 更新日誌
+
+新增：標籤頁的【僅本窗口固定】功能
+更新：部分滑鼠光標樣式
+修復：菜單欄圖標顏色隨主題變化錯亂的問題
+修復：標籤頁拖拽時消失的問題
+修復：關閉副工作區無法保存標記和視圖的問題
+優化：Home 按鈕邏輯
+優化：導航欄圖標邏輯
+優化：空文件夾內創建文件 / 文件夾時的動態顯示
+優化：各處與當前固定標籤頁的交互邏輯
+其他：效能和穩定性優化
+
+[en]
+Allen Explorer v6.94 Update Log
+
+New: "Pin in This Window" function for tab pages.
+Updated: Styles of some mouse cursors.
+Fixed: The problem that the color of menu bar icons gets disordered when the theme changes.
+Fixed: The problem that tab pages disappear when being dragged.
+Fixed: The problem that marks and views cannot be saved when closing the secondary workspace.
+Optimized: Logic of the Home button.
+Optimized: Logic of navigation bar icons.
+Optimized: Dynamic display when creating files/folders in an empty folder.
+Optimized: Interactive logic between various parts and the currently pinned tab page.
+Others: Performance and stability optimization.

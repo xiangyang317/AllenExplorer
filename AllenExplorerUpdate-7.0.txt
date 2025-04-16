@@ -1,0 +1,26 @@
+[zh]
+Allen Explorer v7.0 更新日志
+---------------------------------------------
+新增：原生支持 Process Explorer
+新增：标题栏有右键菜单
+优化：插件下载体验
+更新：第三方插件
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.0 更新日誌
+---------------------------------------------
+新增：原生支援 Process Explorer
+新增：標題欄有右鍵菜單
+優化：插件下載體驗
+更新：第三方插件
+其他：性能和穩定性優化
+
+[en]
+Allen Explorer v7.0 Update Log
+---------------------------------------------
+New: Native support for Process Explorer.
+New: Right-click menu on the title bar.
+Optimized: The experience of plugin downloading.
+Updated: Comprehensively updated third-party plugins.
+Others: Performance and stability optimization.
