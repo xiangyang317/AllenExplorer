@@ -1,0 +1,14 @@
+[zh]
+Allen Explorer v7.04 更新日志
+---------------------------------------------
+性能和稳定性优化
+
+[tw]
+Allen Explorer v7.04 更新日誌
+---------------------------------------------
+性能和穩定性優化
+
+[en]
+Allen Explorer v7.04 Update Log
+---------------------------------------------
+Performance and stability optimization.
