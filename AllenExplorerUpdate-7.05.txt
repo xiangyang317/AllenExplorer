@@ -1,0 +1,38 @@
+[zh]
+Allen Explorer v7.05 更新日志
+---------------------------------------------
+新增：总体风格 之 果味十足
+新增：按首字母分组
+新增：文件项目标签功能
+新增：隐藏 ~allenexplorer~.ala 选项
+优化：菜单项目聚合
+优化：预览窗格整体样式
+优化：文件排序逻辑
+修复：菜单弹出情况下，点击标题栏窗口状态改变问题
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.05 更新日誌
+---------------------------------------------
+新增：整體風格 之 果味十足
+新增：按首字母分組
+新增：文件項目標籤功能
+新增：隱藏 ~~allenexplorer~~.ala 選項
+優化：選單項目聚合
+優化：預覽窗格整體樣式
+優化：文件排序邏輯
+修復：菜單彈出情況下，點擊標題欄窗口狀態改變問題
+其他：性能和穩定性優化
+
+[en]
+Allen Explorer v7.05 Update Log
+---------------------------------------------
+New: Apple-inspired overall style.
+New: Grouping by first letter.
+New: File item tagging functionality.
+New: Option to hide allenexplorer.ala
+Optimized: Menu item aggregation.
+Optimized: Overall style of the preview pane.
+Optimized: File sorting logic.
+Fixed: Issue where the window state changes when clicking the title bar while a menu is open.
+Others: Performance and stability optimization.
