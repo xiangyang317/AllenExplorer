@@ -1,0 +1,68 @@
+[zh]
+Allen Explorer v7.1 更新日志
+---------------------------------------------
+新增：支持多显示器扩展模式
+新增：缩略图模式文件名自适应显示
+新增：极大提升多图文件夹的浏览速度
+新增：缩略图 巨大 (320x320)、缩略图 超巨 (640x640)
+新增：快捷键Ctrl+Shift+Tab、Ctrl+PageDown、Ctrl+PageUp
+新增：拖拽文件项目时隐藏窗口
+新增：标签页足迹
+新增：状态栏信息居中显示设置
+新增：外观 - 自定义主题
+新增：外观 - 设置文件夹颜色
+新增：文件夹的颜色标记 升级为 多彩文件夹
+新增：操作栏按钮 - 复制名称、复制路径
+新增：记录和显示访问次数，并支持基于访问次数排序
+新增：记录和显示最后访问时间，并支持基于最后访问时间排序与分组
+优化：文件删除、移动或重命名后，自动更新收藏夹、常用文件夹与最近访问
+优化：文件删除至回收站，再从回收站恢复后，保留文件标记与访问记录
+优化：多窗口或多工作区打开同一个文件夹后，同步颜色、进度、标签、备注等标记
+修复：部分“固定的系统菜单项目”无法打开的问题
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.1 更新日誌
+---------------------------------------------
+新增：支援多顯示器延伸模式
+新增：縮圖模式檔案名稱自適應顯示
+新增：大幅提升多圖片資料夾的瀏覽速度
+新增：縮圖 巨大 (320x320)、縮圖 超巨 (640x640)
+新增：快捷鍵 Ctrl+Shift+Tab、Ctrl+PageDown、Ctrl+PageUp
+新增：拖曳檔案項目時隱藏視窗
+新增：標籤頁足跡
+新增：狀態列資訊置中顯示設定
+新增：外觀 - 自訂主題
+新增：外觀 - 設定資料夾顏色
+新增：資料夾的顏色標記升級為 多彩資料夾
+新增：操作列按鈕 - 複製名稱、複製路徑
+新增：記錄並顯示存取次數，並支援依據存取次數排序
+新增：記錄並顯示最後存取時間，並支援依據最後存取時間排序與分組
+優化：檔案刪除、移動或重新命名後，自動更新收藏夾、常用資料夾與最近存取
+優化：檔案刪除至資源回收桶，再從回收桶還原後，保留檔案標記與存取記錄
+優化：多視窗或多工作區開啟同一個資料夾後，同步顏色、進度、標籤、備註等標記
+修復：部分「釘選的系統選單項目」無法開啟的問題
+其他：效能與穩定性優化
+
+[en]
+Allen Explorer v7.1 Update Log
+---------------------------------------------
+New: Support for multi-monitor extended mode.
+New: Adaptive filename display in thumbnail mode.
+New: Significantly improved browsing speed for folders with many images.
+New: Thumbnail Huge (320x320), Thumbnail Extra Huge (640x640).
+New: Hotkeys Ctrl+Shift+Tab, Ctrl+PageDown, Ctrl+PageUp.
+New: Hide window when dragging file items.
+New: Tab footprint tracking.
+New: Centered display option for status bar information.
+New: Appearance – Custom themes.
+New: Appearance – Set folder colors.
+New: Color marking for folders upgraded to colorful folders.
+New: Operation bar buttons – Copy name, Copy path.
+New: Record and display access count, support sorting by access count.
+New: Record and display last access time, support sorting and grouping by last access time.
+Optimized: Automatically update favorites, frequent folders, and recent items after file deletion, move, or rename.
+Optimized: Retain file marks and visit records after restoring from Recycle Bin.
+Optimized: Sync colors, progress, tags, and notes when opening the same folder in multiple windows or workspaces.
+Fixed: Issue where some fixed system menu items could not be opened.
+Others: Performance and stability optimizations.
