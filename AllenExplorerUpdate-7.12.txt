@@ -1,0 +1,29 @@
+[zh]
+Allen Explorer v7.12 更新日志
+---------------------------------------------
+修复：文件操作部显示进度窗口的问题
+新增：Git版本控制！！！
+新增：此电脑中隐藏最近访问
+新增：动态调整标签类文字大小
+优化：文件“打开方式”窗口
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.12 更新日誌
+---------------------------------------------
+修復：檔案操作部顯示進度視窗的問題
+新增：Git版本控制！！！
+新增：在「此電腦」中隱藏「最近開啟的檔案」
+新增：動態調整標籤類文字大小
+優化：「開啟方式」視窗
+其他：效能與穩定性優化
+
+[en]
+Allen Explorer v7.12 Update Log
+---------------------------------------------
+Fixed: Progress window not displaying during file operations.
+New: Git version control!!!
+New: Hide "Recent files" from This PC.
+New: Dynamically adjust the font size of tab labels.
+Optimized: "Open with" window.
+Others: Performance and stability optimization.
