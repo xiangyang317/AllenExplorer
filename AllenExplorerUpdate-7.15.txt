@@ -1,0 +1,26 @@
+[zh]
+Allen Explorer v7.15 更新日志
+---------------------------------------------
+重磅推出：级联显示模式！！！
+新增：卡片显示模式
+新增：内容显示模式
+优化：显示模式设置
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.15 更新日誌
+---------------------------------------------
+重磅推出：級聯顯示模式！！！
+新增：卡片顯示模式
+新增：內容顯示模式
+優化：顯示模式設定
+其他：效能與穩定性優化
+
+[en]
+Allen Explorer v7.15 Update Log
+---------------------------------------------
+Major Update: Cascading display mode!!!
+New: Card display mode.
+New: Content display mode.
+Optimized: Display mode settings.
+Others: Performance and stability optimization.
