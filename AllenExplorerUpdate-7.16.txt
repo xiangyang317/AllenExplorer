@@ -1,0 +1,32 @@
+[zh]
+Allen Explorer v7.16 更新日志
+---------------------------------------------
+新增：智能预览窗格
+新增：外观-窗口背景（纯色、渐变色、图片、半透明）
+新增：外观-备份与恢复
+优化：级联模式操作
+优化：导航栏按钮操作
+优化：界面文本
+其他：性能和稳定性优化
+
+[tw]
+Allen Explorer v7.16 更新日誌
+---------------------------------------------
+新增：智慧預覽窗格
+新增：外觀 - 視窗背景（純色、漸層色、圖片、半透明）
+新增：外觀 - 備份與恢復
+優化：級聯模式操作
+優化：導航欄按鈕操作
+優化：介面文字
+其他：效能與穩定性優化
+
+[en]
+Allen Explorer v7.16 Update Log
+---------------------------------------------
+New: Smart Preview Pane
+New: Appearance - Window background (Solid color, Gradient, Image, Semi-transparent)
+New: Appearance - Backup & Restore
+Optimized: Cascade Mode operations
+Optimized: Navigation bar button operations
+Optimized: Interface text
+Others: Performance and stability optimization
